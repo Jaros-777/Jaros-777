@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaros-777
+- 👋 Hi, I’m Filip
 - 👀 I’m interested in back-end and frontend programming
 - 🌱 I’m currently learning React for myself and C++,Python and PostgreSQL on University
 - 💞️ I’m looking for new experience in IT.
