@@ -1,39 +1,39 @@
-# 👋 Cześć, tu Filip Jarocki
+# 👋 Hi, I'm Filip Jarocki
 
-Jestem studentem informatyki, który rozwija się zarówno w **biznesie**, jak i w **programowaniu**.
-💡 Stawiam **jakość ponad ilość** i lubię tworzyć rozwiązania, które faktycznie działają i pomagają.
+I'm a computer science student who is developing both in **business** and **programming**.
+💡 I value **quality over quantity** and enjoy creating solutions that actually work and help.
 
-🌍 Moja strona: [filipjarocki.netlify.app](https://filipjarocki.netlify.app/)
+🌍 My website: [filipjarocki.netlify.app](https://filipjarocki.netlify.app/)
 
 ---
 
-## 🔧 Technologie i narzędzia
+## 🔧 Technologies and tools
 
-* **Frontend**: React, HTML, CSS, JavaScript  
+* **Frontend**: React, HTML, CSS, JavaScript
 * **Backend**: Node.js, Java, SpringBoot
-* **Bazy danych**: PostgreSQL, Supabase
-* **Inne**: Git, GitHub, REST API
+* **Databases**: PostgreSQL, Supabase
+* **Other**: Git, GitHub, REST API
 
 ---
 
-## 🚀 Projekty
+## 🚀 Projects
 
-👉 Zajrzyj na moją stronę [portfolio](https://filipjarocki.netlify.app/) gdzie znajdziesz moje najnowsze projekty.
-
----
-
-## 📊 Statystyki GitHub
-
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaros-777\&layout=compact\&theme=radical)
+👉 Check out my [portfolio](https://filipjarocki.netlify.app/) website where you can find my latest projects.
 
 ---
 
-## 📫 Kontakt
+## 📊 GitHub statistics
 
-* 🌐 Strona: [filipjarocki.netlify.app](https://filipjarocki.netlify.app/)
+![Most frequently used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaros-777\&layout=compact\&theme=radical)
+
+---
+
+## 📫 Contact
+
+* 🌐 Website: [filipjarocki.netlify.app](https://filipjarocki.netlify.app/)
 * 💼 LinkedIn: [*linkedin.com/in/filip-jarocki777*](https://www.linkedin.com/in/filip-jarocki777/)
-* 📧 E-mail: filip.jarocki@wp.pl
+* 📧 Email: filip.jarocki@wp.pl
 
 ---
 
-✨ "Nigdy nie chodzi tylko o kod – chodzi o to, co można dzięki niemu zbudować."
+✨ “It's never just about the code – it's about what you can build with it.”
