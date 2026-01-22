@@ -9,7 +9,7 @@ I'm a computer science student who is developing both in **business** and **prog
 
 ## 🔧 Technologies and tools
 
-* **Frontend**: React, HTML, CSS, Sass, Tailwind CSS, JavaScript
+* **Frontend**: React,,TypeScript, JavaScript, HTML, CSS, Sass, Tailwind CSS
 * **Backend**: Node.js, Java, SpringBoot
 * **Databases**: PostgreSQL, Supabase
 * **Other**: Git, GitHub, Docker
