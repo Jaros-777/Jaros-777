@@ -18,7 +18,7 @@ I'm a computer science student who is developing both in **business** and **prog
 
 ## 🚀 Projects
 
-👉 Check out my [portfolio](https://filipjarocki.netlify.app/) website where you can find my latest projects.
+👉 Check out my [portfolio](https://filipjarocki.netlify.app/#portfolio) website where you can find my latest projects.
 
 ---
 
